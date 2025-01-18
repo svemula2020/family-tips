@@ -10,4 +10,5 @@ gem 'jemoji'
 gem 'webrick'
 gem 'csv'
 gem 'base64'
+gem "github-pages", "~> 232", group: :jekyll_plugins
 # gem "rails"
